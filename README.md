@@ -1,6 +1,5 @@
 # Payment-Date-Prediction
 
-# Predicting Payment Dates for B2B Invoices
 
 ## Introduction
 
